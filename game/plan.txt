@@ -1,0 +1,10 @@
+Náš plán na hru
+
+- ukládání progresu (database)
+- ascii grafika
+- linearni/nelinearni idk
+- 
+
+
+
+gambling musí byt
