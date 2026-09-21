@@ -4,7 +4,3 @@ Náš plán na hru
 - ascii grafika
 - linearni/nelinearni idk
 - webová stránka 
-
-
-
-gambling musí byt
