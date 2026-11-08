@@ -1,6 +1,0 @@
-Náš plán na hru
-
-- ukládání progresu (database)
-- ascii grafika
-- linearni/nelinearni idk
-- webová stránka 
