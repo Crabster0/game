@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Moje hra</title>
+
+    <style>
+        body {
+            background: #202020;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+        }
+
+        h1 {
+            margin: 25px;
+        }
+
+        iframe {
+            width: 90%;
+            max-width: 1000px;
+            height: 700px;
+            border: none;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Moje Pygame hra</h1>
+
+    <iframe
+        src="{{ url_for('static', filename='game/index.html') }}"
+        title="Moje hra">
+    </iframe>
+
+</body>
+</html>
